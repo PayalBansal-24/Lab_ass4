@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_Ass4_Ques6
+namespace Lab_Ass4_6
 {
     internal class Program
     {
